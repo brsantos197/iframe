@@ -66,7 +66,7 @@ An app that makes it possible to render external iframes on a store.
   },
   "iframe.dynamic-src": {
     "props": {
-      "dynamicSrc": "https://www.test.com/exampleStaticPathName/{dynamicParam1}/{dynamicParam2}/exampleStaticPageName",
+      "dynamicSrc": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQjBo6ks4ESgKxepCPC-4mPSTJfoUIEJerc2PcfodUosb-R5RceqZ3_CxObSVvKbUGA8JnRFbm8aSc6/pubchart?oid=883149542&format=interactive",
       "width": "1920",
       "height": "1000",
       "title": "exampleStaticPageName iframe wrapper for {account}",
